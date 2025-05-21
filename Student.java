@@ -26,4 +26,3 @@ class Student {
         System.out.println("Course: " + course);
     }
 }
-
